@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">myproject</string>
+    <string name="activity_a">Activity A</string>
+</resources>
